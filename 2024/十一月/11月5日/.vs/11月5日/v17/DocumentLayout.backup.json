@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u6572\u4EE3\u7801\\2024\\\u5341\u4E00\u6708\\11\u67085\u65E5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3474AC-09A5-40BD-82AB-DCA65A77CB49}|11\u67085\u65E5\\11\u67085\u65E5.vcxproj|D:\\\u6572\u4EE3\u7801\\2024\\\u5341\u4E00\u6708\\11\u67085\u65E5\\11\u67085\u65E5\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA3474AC-09A5-40BD-82AB-DCA65A77CB49}|11\u67085\u65E5\\11\u67085\u65E5.vcxproj|solutionrelative:11\u67085\u65E5\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3474AC-09A5-40BD-82AB-DCA65A77CB49}|11\u67085\u65E5\\11\u67085\u65E5.vcxproj|D:\\\u6572\u4EE3\u7801\\2024\\\u5341\u4E00\u6708\\11\u67085\u65E5\\11\u67085\u65E5\\text2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA3474AC-09A5-40BD-82AB-DCA65A77CB49}|11\u67085\u65E5\\11\u67085\u65E5.vcxproj|solutionrelative:11\u67085\u65E5\\text2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "text.c",
+              "DocumentMoniker": "D:\\\u6572\u4EE3\u7801\\2024\\\u5341\u4E00\u6708\\11\u67085\u65E5\\11\u67085\u65E5\\text.c",
+              "RelativeDocumentMoniker": "11\u67085\u65E5\\text.c",
+              "ToolTip": "D:\\\u6572\u4EE3\u7801\\2024\\\u5341\u4E00\u6708\\11\u67085\u65E5\\11\u67085\u65E5\\text.c",
+              "RelativeToolTip": "11\u67085\u65E5\\text.c",
+              "ViewState": "AgIAADQBAAAAAAAAAAA2wDoBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-05T07:19:52.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "text2.c",
+              "DocumentMoniker": "D:\\\u6572\u4EE3\u7801\\2024\\\u5341\u4E00\u6708\\11\u67085\u65E5\\11\u67085\u65E5\\text2.c",
+              "RelativeDocumentMoniker": "11\u67085\u65E5\\text2.c",
+              "ToolTip": "D:\\\u6572\u4EE3\u7801\\2024\\\u5341\u4E00\u6708\\11\u67085\u65E5\\11\u67085\u65E5\\text2.c*",
+              "RelativeToolTip": "11\u67085\u65E5\\text2.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-06T11:44:45.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

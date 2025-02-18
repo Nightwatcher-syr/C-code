@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u6572\u4EE3\u7801\\2024\\\u5341\u4E00\u6708\\11\u670820ri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{981161FD-B19E-426F-98F8-6EA987241B3F}|11\u670820ri\\11\u670820ri.vcxproj|D:\\\u6572\u4EE3\u7801\\2024\\\u5341\u4E00\u6708\\11\u670820ri\\11\u670820ri\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{981161FD-B19E-426F-98F8-6EA987241B3F}|11\u670820ri\\11\u670820ri.vcxproj|solutionrelative:11\u670820ri\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981161FD-B19E-426F-98F8-6EA987241B3F}|11\u670820ri\\11\u670820ri.vcxproj|D:\\\u6572\u4EE3\u7801\\2024\\\u5341\u4E00\u6708\\11\u670820ri\\11\u670820ri\\Add.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{981161FD-B19E-426F-98F8-6EA987241B3F}|11\u670820ri\\11\u670820ri.vcxproj|solutionrelative:11\u670820ri\\Add.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981161FD-B19E-426F-98F8-6EA987241B3F}|11\u670820ri\\11\u670820ri.vcxproj|D:\\\u6572\u4EE3\u7801\\2024\\\u5341\u4E00\u6708\\11\u670820ri\\11\u670820ri\\Add.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{981161FD-B19E-426F-98F8-6EA987241B3F}|11\u670820ri\\11\u670820ri.vcxproj|solutionrelative:11\u670820ri\\Add.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add.c",
+              "DocumentMoniker": "D:\\\u6572\u4EE3\u7801\\2024\\\u5341\u4E00\u6708\\11\u670820ri\\11\u670820ri\\Add.c",
+              "RelativeDocumentMoniker": "11\u670820ri\\Add.c",
+              "ToolTip": "D:\\\u6572\u4EE3\u7801\\2024\\\u5341\u4E00\u6708\\11\u670820ri\\11\u670820ri\\Add.c",
+              "RelativeToolTip": "11\u670820ri\\Add.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-20T13:24:09.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add.h",
+              "DocumentMoniker": "D:\\\u6572\u4EE3\u7801\\2024\\\u5341\u4E00\u6708\\11\u670820ri\\11\u670820ri\\Add.h",
+              "RelativeDocumentMoniker": "11\u670820ri\\Add.h",
+              "ToolTip": "D:\\\u6572\u4EE3\u7801\\2024\\\u5341\u4E00\u6708\\11\u670820ri\\11\u670820ri\\Add.h",
+              "RelativeToolTip": "11\u670820ri\\Add.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T13:23:54.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "text.c",
+              "DocumentMoniker": "D:\\\u6572\u4EE3\u7801\\2024\\\u5341\u4E00\u6708\\11\u670820ri\\11\u670820ri\\text.c",
+              "RelativeDocumentMoniker": "11\u670820ri\\text.c",
+              "ToolTip": "D:\\\u6572\u4EE3\u7801\\2024\\\u5341\u4E00\u6708\\11\u670820ri\\11\u670820ri\\text.c",
+              "RelativeToolTip": "11\u670820ri\\text.c",
+              "ViewState": "AgIAACYAAAAAAAAAAAA2wDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-20T12:40:54.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

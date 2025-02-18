@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u6572\u4EE3\u7801\\2024\\\u5341\u6708\\10.29\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{583FFE6E-7682-4139-B5C9-E367C4CDDE62}|10.29\\10.29.vcxproj|D:\\\u6572\u4EE3\u7801\\2024\\\u5341\u6708\\10.29\\10.29\\10\u670829.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{583FFE6E-7682-4139-B5C9-E367C4CDDE62}|10.29\\10.29.vcxproj|solutionrelative:10.29\\10\u670829.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583FFE6E-7682-4139-B5C9-E367C4CDDE62}|10.29\\10.29.vcxproj|D:\\\u6572\u4EE3\u7801\\2024\\\u5341\u6708\\10.29\\10.29\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{583FFE6E-7682-4139-B5C9-E367C4CDDE62}|10.29\\10.29.vcxproj|solutionrelative:10.29\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 304,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "10\u670829.c",
+              "DocumentMoniker": "D:\\\u6572\u4EE3\u7801\\2024\\\u5341\u6708\\10.29\\10.29\\10\u670829.c",
+              "RelativeDocumentMoniker": "10.29\\10\u670829.c",
+              "ToolTip": "D:\\\u6572\u4EE3\u7801\\2024\\\u5341\u6708\\10.29\\10.29\\10\u670829.c*",
+              "RelativeToolTip": "10.29\\10\u670829.c*",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAxwLUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-29T12:02:51.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 96,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "text.c",
+              "DocumentMoniker": "D:\\\u6572\u4EE3\u7801\\2024\\\u5341\u6708\\10.29\\10.29\\text.c",
+              "RelativeDocumentMoniker": "10.29\\text.c",
+              "ToolTip": "D:\\\u6572\u4EE3\u7801\\2024\\\u5341\u6708\\10.29\\10.29\\text.c",
+              "RelativeToolTip": "10.29\\text.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-30T13:08:30.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
