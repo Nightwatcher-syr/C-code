@@ -1,0 +1,9 @@
+﻿  text.cpp
+D:\敲代码\2025\2月\Project1\Project1\text.cpp(85,7): error C2374: “b”: 重定义；多次初始化
+      D:\敲代码\2025\2月\Project1\Project1\text.cpp(79,7):
+      参见“b”的声明
+  
+D:\敲代码\2025\2月\Project1\Project1\text.cpp(85,7): error C2086: “int &b”: 重定义
+      D:\敲代码\2025\2月\Project1\Project1\text.cpp(79,7):
+      参见“b”的声明
+  
