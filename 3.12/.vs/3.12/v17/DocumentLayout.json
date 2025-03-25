@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u6572\u4EE3\u7801\\2025\\3\u6708\\3.12\\",
+  "WorkspaceRootPath": "D:\\Code\\C-code\\3.12\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1DD144ED-D019-484A-8683-BE7E0FFBA044}|3.12\\3.12.vcxproj|D:\\\u6572\u4EE3\u7801\\2025\\3\u6708\\3.12\\3.12\\text.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1DD144ED-D019-484A-8683-BE7E0FFBA044}|3.12\\3.12.vcxproj|D:\\Code\\C-code\\3.12\\3.12\\text.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1DD144ED-D019-484A-8683-BE7E0FFBA044}|3.12\\3.12.vcxproj|solutionrelative:3.12\\text.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "text.cpp",
-              "DocumentMoniker": "D:\\\u6572\u4EE3\u7801\\2025\\3\u6708\\3.12\\3.12\\text.cpp",
+              "DocumentMoniker": "D:\\Code\\C-code\\3.12\\3.12\\text.cpp",
               "RelativeDocumentMoniker": "3.12\\text.cpp",
-              "ToolTip": "D:\\\u6572\u4EE3\u7801\\2025\\3\u6708\\3.12\\3.12\\text.cpp",
+              "ToolTip": "D:\\Code\\C-code\\3.12\\3.12\\text.cpp",
               "RelativeToolTip": "3.12\\text.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-12T02:00:34.815Z",
               "EditorCaption": ""
